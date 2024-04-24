@@ -68,6 +68,7 @@ Password: wunder@123
 - [NodeJS LTS](https://nodejs.org/en/download/)
 - [PNPM 8+](https://pnpm.io/installation)
 - [Go 1.21+](https://golang.org/doc/install)
+- [dbmate 2.15](https://github.com/amacneil/dbmate)
 - [wgc](https://www.npmjs.com/package/wgc)
 - .env/.env.local (see below)
 
