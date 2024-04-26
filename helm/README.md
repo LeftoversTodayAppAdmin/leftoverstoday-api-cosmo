@@ -51,7 +51,7 @@ make docker-build-minikube # If you're running k8s on the same CPU architecture 
 For development, we recommend installing the Helm chart with Kapp the following command:
 
 ```shell
-make dev
+make deploy
 ```
 
 The provisioning will take a few seconds to bootstrap the whole cluster and seed the database with a default user and organization.
